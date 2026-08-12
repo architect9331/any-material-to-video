@@ -1,0 +1,4 @@
+interface:
+  display_name: "Any Material to Video"
+  short_description: "Turn mixed source materials into evidence-bound videos"
+  default_prompt: "Use $any-material-to-video to turn these source materials into a polished, narrated, evidence-bound video."
