@@ -70,6 +70,8 @@ Choose a structure based on the requested outcome:
 
 Write short spoken sentences. Bind each sentence to a real visual, a derived visualization, or a conceptual animation. Use [references/visual-grammar.md](references/visual-grammar.md) for shot selection and motion rules.
 
+If the inputs do not establish a topic, audience, or supported result, do not invent one. Continue with a transparent material-readiness or process explainer when that still serves the request; otherwise report the missing inputs. Mark estimated timings as provisional until narration has been mastered.
+
 ### 5. Prepare real evidence
 
 - Capture the whole system or page before emphasizing a region.
