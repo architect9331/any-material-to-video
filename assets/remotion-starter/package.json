@@ -1,0 +1,22 @@
+{
+  "name": "any-material-video",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts AnyMaterialVideo out/video.mp4 --crf=18 --audio-bitrate=256k --overwrite"
+  },
+  "dependencies": {
+    "@remotion/media": "4.0.484",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@remotion/cli": "4.0.484",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
